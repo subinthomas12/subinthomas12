@@ -1,5 +1,8 @@
 # 💫 HI THERE, I AM SUBIN THOMAS
-👨🏽‍💻 I'm currently working on Mearn stack<br>👥 I'm looking to collaborate on web development projects<br>📚 I'm currently learning front end development<br>📝 Ask me about web development & mobile app development<br>
+👨🏽‍💻 I'm currently working with the MERN stack (MongoDB, Express, React, Node.js)
+👥 I'm looking to collaborate on web development and mobile app development projects
+📚 I'm currently learning advanced front-end development and Flutter
+📝 Ask me about JavaScript, React, Node.js, Express, Flutter, and REST APIs
 
 
 ## 🌐 Socials:
